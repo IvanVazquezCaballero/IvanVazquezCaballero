@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @IvanVazquezCaballero
-- 👀 I’m interested in DEvops, Data Engineer, Data Science, Machine Learning, IA.
-- 🌱 I’m currently learning Data Base & Machine Learning & WebScraping
-- 💞️ I’m looking to collaborate on DS Proyects
-- 📫 How to reach me
+# 👋 Hola soy @IvanVazquezCaballero !
+
+
+- 👀 Actualmente trabajo como Ingeniero Informatico con los Roles de Data Enginieer & Devops.
+- 🌱 Estoy en constante aprendizaje sobre programación Python & Data Science.
+- 💞️ Me apasiona el mundo de del Machine Learning y las IAs.
+- 📫 Algo mas sobre mi..
 
 <!---
 IvanVazquezCaballero/IvanVazquezCaballero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +20,14 @@ You can click the Preview link to take a look at your changes.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 Siempre ampliando ...
+
+## Recomendados:
+
+### Python desde cero: Curso gratis
+![https://mouredev.com/python](./python_banner.png)
+
+[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
+
+### Git & GitHub desde cero: Curso gratis
+![https://mouredev.com/git](./git_github_banner.png)
+
