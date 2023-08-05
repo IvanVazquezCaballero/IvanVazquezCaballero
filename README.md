@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanVazquezCaballero
-- 👀 I’m interested in DEvops & Data Science
+- 👀 I’m interested in DEvops, Data Engineer, Data Science, Machine Learning, IA.
 - 🌱 I’m currently learning Data Base & Machine Learning & WebScraping
 - 💞️ I’m looking to collaborate on DS Proyects
 - 📫 How to reach me
