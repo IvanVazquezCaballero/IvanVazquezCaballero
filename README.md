@@ -1,9 +1,9 @@
 # 👋 Hola soy @IvanVazquezCaballero !
 
 
-- 👀 Actualmente trabajo como Ingeniero Informatico con los Roles de Data Enginieer & Devops.
+- 👀 Actualmente trabajo como Ingeniero Informatico con los Roles de Data Engineer & Devops.
 - 🌱 Estoy en constante aprendizaje sobre programación Python & Data Science.
-- 💞️ Me apasiona el mundo de del Machine Learning y las IAs.
+- 💞️ Me apasiona el mundo del Machine Learning y las IAs.
 - 📫 Algo mas sobre mi..
 
 <!---
