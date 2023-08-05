@@ -26,10 +26,10 @@ Siempre ampliando ...
 ## Recomendados:
 
 ### Python desde cero: Curso gratis
-![https://mouredev.com/python]
+https://mouredev.com/python
 
 [![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
 
 ### Git & GitHub desde cero: Curso gratis
-![https://mouredev.com/git]
+https://mouredev.com/git
 
