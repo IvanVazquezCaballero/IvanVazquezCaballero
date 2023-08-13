@@ -1,4 +1,4 @@
-# 👋 Hola soy @Ivan Ingeniero Informatico !
+# 👋 Hola soy @Ivan!
 
 
 - 👀 Actualmente trabajo como Ingeniero Informatico con los Roles de Data Engineer & Devops.
@@ -32,4 +32,8 @@ https://mouredev.com/python
 
 ### Git & GitHub desde cero: Curso gratis
 https://mouredev.com/git
+
+### NLP de 0 a 100: En español
+
+[Neural language processing](https://github.com/somosnlp/nlp-de-cero-a-cien)
 
