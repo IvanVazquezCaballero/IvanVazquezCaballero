@@ -1,7 +1,7 @@
-# 👋 Hola soy @Ivan!
+# 👋 Hola soy @Ivan Data Scientist!
 
 
-- 👀 Actualmente trabajo como Ingeniero Informatico con los Roles de Data Engineer & Devops.
+- 👀 He tenido Roles como Ingeniero Informatico con los Roles de Data Engineer & Devops.
 - 🌱 Estoy en constante aprendizaje sobre programación Python & Data Science.
 - 💞️ Me apasiona el mundo del Machine Learning y las IAs.
 - 📫 Algo mas sobre mi..
